@@ -32,7 +32,7 @@
 
 ## 🏷️ About
 
-Presented by Rocketseat at Next Level Week #3. happy exite to support and promote orphanages in the region of Palestina de Goiás.
+Presented by Rocketseat at Next Level Week #3. happy exists to support and promote orphanages in the region of Palestina de Goiás.
 
 ## 💻 Technologies
 
